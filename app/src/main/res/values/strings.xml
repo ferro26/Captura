@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Captura</string>
+    <string name="form_username">Nombre Completo</string>
+    <string name="form_birthday">Fecha de Nacimiento</string>
+    <string name="form_telephone">Teléfono</string>
+    <string name="form_email">E-mail</string>
+    <string name="form_description">Descripción Contacto</string>
+</resources>
